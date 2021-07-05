@@ -1,7 +1,5 @@
 # git-project
 
-<<<<<<< HEAD
-Здесь скоро будет моё описание!
-=======
 Это мой первый проект
->>>>>>> 2091380... update readme.md
+
+https://svk-man.github.io/git-project
