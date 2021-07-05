@@ -1,3 +1,3 @@
 # git-project
 
-Hello World!
+Здесь скоро будет моё описание!
